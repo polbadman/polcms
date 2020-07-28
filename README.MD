@@ -1,2 +1,2 @@
-[![WebSite POLNET>IR](https://img.shields.io/badge/WebSite-Tarhche.com-yellow.svg)](http://polnet.ir)
+[![WebSite POLNET>IR](https://img.shields.io/badge/WebSite-POLNET.IR-yellow.svg)](http://polnet.ir)
 این فایل معرفی پروژه است:
